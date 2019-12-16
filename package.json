@@ -1,0 +1,11 @@
+{
+  "name": "node_todo",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/BrightWhisper/node_todo.git",
+  "author": "wangshuyu <sureforwsy@163.com>",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^4.0.1"
+  }
+}
